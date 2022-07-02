@@ -38,7 +38,7 @@ export default function Home() {
           }
         </Content>
 
-        <a style={{ textDecoration: 'none' }} href=''>
+        <a style={{ textDecoration: 'none' }} href='http://wa.me/5511949356478'>
           <Button>
 
             <ButtonText  >{'Solicitar Orçamento'}</ButtonText>
